@@ -26,7 +26,7 @@ export function Hero() {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16 animate-fade-up" style={{ animationDelay: '0.2s' }}>
           <a
-            href="https://github.com/nicepkg/folder-pilot/releases/latest"
+            href="https://github.com/shamu3699-cui/folderpilot-downloads/releases/tag/v0.1.0/FolderPilot_0.1.0_aarch64.dmg"
             className="inline-flex items-center gap-2 px-8 py-4 rounded-lg gradient-cta text-white font-semibold text-lg shadow-cta hover:scale-105 transition-transform"
           >
             <Apple className="w-5 h-5" />
