@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react'
 import { Hero } from './components/Hero'
 import { Trust } from './components/Trust'
 import { Features } from './components/Features'
@@ -18,6 +19,7 @@ export default function App() {
       </main>
 
       <Footer />
+      <Analytics />
     </div>
   )
 }
